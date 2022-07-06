@@ -1,4 +1,5 @@
-[     {         "author" : "Valkyrian",
+[     {         
+         "author" : "Valkyrian",
          "name" : "temporis",
          "keyWords" : "osatopia temporis uandi", 
          "version" : "1.0.0",
@@ -6,4 +7,6 @@
          "description" : "<3",
          "url" : "https://github.com/Valkyrian510/Theme-Temporis/blob/main/temporis.zip?raw=true",
          "previewUrl" : "https://github.com/Valkyrian510/Theme-Temporis/blob/main/temporis.png?raw=true",
-         "creationDate" : "03/07/2022",         "modificationDate" : "04/07/2022"     } ]
+         "creationDate" : "03/07/2022",         
+         "modificationDate" : "04/07/2022"     
+} ]
